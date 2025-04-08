@@ -1,0 +1,1211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\mydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\mydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\exercise4\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\services\\orderitemsrvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\orderitemsrvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\repositories\\supplierproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\supplierproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\exercise4\\controllers\\supplierproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\supplierproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\entities\\supplierproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\supplierproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\services\\supplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\supplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250408132359_init6565.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mock\\Migrations\\20250408132359_init6565.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\exercise4\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\interfaces\\iorderservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iorderservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\interfaces\\iorderitemrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iorderitemrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\exercise4\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\exercise4\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\interfaces\\iuserrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iuserrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\exercise4\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\exercise4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\repositories\\extensionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\extensionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\exercise4\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\dtos\\supplierproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\supplierproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\migrations\\20250403214145_init333.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250403214145_init333.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\services\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\exercise4\\exercise4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\exercise4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\migrations\\20250402114848_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250402114848_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\interfaces\\iproductrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iproductrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\interfaces\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\interfaces\\isupplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\isupplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\interfaces\\iproductservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iproductservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\interfaces\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\interfaces\\isupplierrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\isupplierrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\interfaces\\isupplierproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\isupplierproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\mock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\mock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\migrations\\20250402132004_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250402132004_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\hadasim\\Exercise4\\Exercise4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\hadasim\\Exercise4\\Repository\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\hadasim\\Exercise4\\Mock\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\migrations\\20250406015644_init444.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250406015644_init444.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\migrations\\20250406014610_init678.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250406014610_init678.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\migrations\\20250406015632_init89.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250406015632_init89.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\migrations\\20250405200525_init456.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250405200525_init456.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\migrations\\20250405192321_init3456.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250405192321_init3456.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\user\\downloads\\jm_xcnjrl-kk0iyjj7\\exercise4\\mock\\migrations\\20250405191221_init343.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250405191221_init343.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupplierProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\SupplierProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\SupplierProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\SupplierProductRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\SupplierProductRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:57:39.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItemSrvice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\OrderItemSrvice.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\OrderItemSrvice.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\OrderItemSrvice.cs",
+              "RelativeToolTip": "Service\\Services\\OrderItemSrvice.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:38:51.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\OrderItemDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\OrderItemDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:27:05.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\OrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\OrderItemRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\OrderItemRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:04:04.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\OrderItemController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:57:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\MyDatabase.cs",
+              "RelativeDocumentMoniker": "Mock\\MyDatabase.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\MyDatabase.cs",
+              "RelativeToolTip": "Mock\\MyDatabase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA8wBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:15:59.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupplierProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\SupplierProductController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\SupplierProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\SupplierProductController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\SupplierProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:19:23.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupplierProduct.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\SupplierProduct.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\SupplierProduct.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\SupplierProduct.cs",
+              "RelativeToolTip": "Repository\\Entities\\SupplierProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:53:34.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupplierProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\SupplierProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SupplierProductService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\SupplierProductService.cs",
+              "RelativeToolTip": "Service\\Services\\SupplierProductService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:02:52.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250408132359_init6565.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250408132359_init6565.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250408132359_init6565.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250408132359_init6565.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250408132359_init6565.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:23:59.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:24:15.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv08AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:02:07.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderService..cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\IOrderService..cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IOrderService..cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\IOrderService..cs",
+              "RelativeToolTip": "Service\\Interfaces\\IOrderService..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:44:42.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\OrderService.cs",
+              "RelativeToolTip": "Service\\Services\\OrderService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:32:32.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:08:03.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\Order.cs",
+              "RelativeToolTip": "Repository\\Entities\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:31:48.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA0wD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:02:55.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderItemRepositiry.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IOrderItemRepositiry.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IOrderItemRepositiry.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IOrderItemRepositiry.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IOrderItemRepositiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:08:28.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\LoginService.cs",
+              "RelativeToolTip": "Service\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:17:43.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:07:40.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:21:27.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:09:58.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\SupplierService.cs",
+              "RelativeToolTip": "Service\\Services\\SupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:46:45.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\User.cs",
+              "RelativeToolTip": "Repository\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:34:30.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepositiry.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IUserRepositiry.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IUserRepositiry.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IUserRepositiry.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IUserRepositiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:09:43.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:36:55.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:35:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SupplierDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\SupplierDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\SupplierDto.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\SupplierDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\SupplierDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:27:50.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:46:12.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\UserService.cs",
+              "RelativeToolTip": "Service\\Services\\UserService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:39:50.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Program.cs",
+              "RelativeToolTip": "Exercise4\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:25:32.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\Product.cs",
+              "RelativeToolTip": "Repository\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:57:41.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:12:51.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:00:50.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExtensionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\ExtensionRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ExtensionRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\ExtensionRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ExtensionRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:14:29.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:14:48.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Supplier.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\Supplier.cs",
+              "RelativeToolTip": "Repository\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:55:24.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250406015644_init444.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250406015644_init444.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250406015644_init444.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250406015644_init444.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250406015644_init444.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T01:56:44.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250406014610_init678.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250406014610_init678.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250406014610_init678.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250406014610_init678.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250406014610_init678.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T01:46:10.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250406015632_init89.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250406015632_init89.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250406015632_init89.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250406015632_init89.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250406015632_init89.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T01:56:32.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:27:26.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\ProductService.cs",
+              "RelativeToolTip": "Service\\Services\\ProductService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:43:56.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:09:25.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SupplierProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\SupplierProductDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\SupplierProductDto.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Dtos\\SupplierProductDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\SupplierProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:26:47.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\SupplierRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repositories\\SupplierRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\SupplierRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:13:46.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:11:20.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250405200525_init456.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250405200525_init456.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250405200525_init456.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250405200525_init456.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250405200525_init456.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:05:25.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250405192321_init3456.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250405192321_init3456.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250405192321_init3456.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250405192321_init3456.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250405192321_init3456.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:23:21.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20250405191221_init343.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250405191221_init343.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250405191221_init343.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250405191221_init343.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250405191221_init343.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:12:21.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T20:38:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:29:07.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250403214145_init333.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250403214145_init333.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250403214145_init333.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250403214145_init333.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250403214145_init333.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:41:45.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ExtensionService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\ExtensionService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ExtensionService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\ExtensionService.cs",
+              "RelativeToolTip": "Service\\Services\\ExtensionService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:29:51.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\hadasim\\Exercise4\\Exercise4\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\hadasim\\Exercise4\\Exercise4\\appsettings.json",
+              "ToolTip": "C:\\hadasim\\Exercise4\\Exercise4\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\hadasim\\Exercise4\\Exercise4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T11:30:48.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MyMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\MyMapper.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\MyMapper.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Services\\MyMapper.cs",
+              "RelativeToolTip": "Service\\Services\\MyMapper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:30:57.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250402132004_init1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250402132004_init1.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250402132004_init1.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250402132004_init1.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250402132004_init1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:20:05.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T12:49:37.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Exercise4.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Exercise4.csproj",
+              "RelativeDocumentMoniker": "Exercise4\\Exercise4.csproj",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Exercise4\\Exercise4.csproj",
+              "RelativeToolTip": "Exercise4\\Exercise4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T12:52:29.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Repository\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:41:27.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250402114848_init.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250402114848_init.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250402114848_init.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Migrations\\20250402114848_init.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250402114848_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:48:49.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:01:16.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IProductRepositiry.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IProductRepositiry.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IProductRepositiry.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IProductRepositiry.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IProductRepositiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:08:51.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\ISupplierService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ISupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:45:25.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ISupplierProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\ISupplierProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ISupplierProductService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\ISupplierProductService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ISupplierProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:45:57.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IProductService..cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\IProductService..cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IProductService..cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\IProductService..cs",
+              "RelativeToolTip": "Service\\Interfaces\\IProductService..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:45:06.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IOrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\IOrderItemService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IOrderItemService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Interfaces\\IOrderItemService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IOrderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:44:18.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\hadasim\\Exercise4\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\hadasim\\Exercise4\\Repository\\Class1.cs",
+              "ToolTip": "C:\\hadasim\\Exercise4\\Repository\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\hadasim\\Exercise4\\Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:54:59.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ISupplierRepositiry.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\ISupplierRepositiry.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\ISupplierRepositiry.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\ISupplierRepositiry.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\ISupplierRepositiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:09:31.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ISupplierProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\ISupplierProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\ISupplierProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\ISupplierProductRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\ISupplierProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:29:30.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IContext.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Repository\\Interfaces\\IContext.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:50:31.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Service\\Class1.cs",
+              "RelativeToolTip": "Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:21:18.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Mock.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Mock.csproj",
+              "RelativeDocumentMoniker": "Mock\\Mock.csproj",
+              "ToolTip": "C:\\Users\\user\\Downloads\\jm_XcNjRL-kK0iYJJ7\\Exercise4\\Mock\\Mock.csproj",
+              "RelativeToolTip": "Mock\\Mock.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T09:23:00.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\hadasim\\Exercise4\\Mock\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\hadasim\\Exercise4\\Mock\\Class1.cs",
+              "ToolTip": "C:\\hadasim\\Exercise4\\Mock\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\hadasim\\Exercise4\\Mock\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:15:01.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
