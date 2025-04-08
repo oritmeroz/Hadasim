@@ -73,7 +73,7 @@ const LoginPage: React.FC = () => {
 
       <div>
         <button onClick={handleSupplierRegister}>הוספת ספק</button>
-        <button onClick={handleUserRegister}>הוספת בעל מכולת</button>
+        {/* <button onClick={handleUserRegister}>הוספת בעל מכולת</button> */}
       </div>
     </div>
   );
